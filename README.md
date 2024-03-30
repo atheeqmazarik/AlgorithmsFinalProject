@@ -9,7 +9,7 @@ The data of the given graph in the assignment has been translated to a dictionar
 Thank You :)
 
 Group Members:
-  Atheeq Mazarik
-  Sulaiman Nezami
-  Zain Siddique
+  Atheeq Mazarik,
+  Sulaiman Nezami,
+  Zain Siddique,
   Saifullah Syed
