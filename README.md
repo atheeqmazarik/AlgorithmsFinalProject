@@ -6,6 +6,8 @@ The program asks the user to input a starting point from Nodes A to W. Inputting
 
 The data of the given graph in the assignment has been translated to a dictionary that is in the program itself.
 
+To use the program, simply download the "algorithms-final-project" python file. From there make sure to run it on a valid compiler. The compiler we used is Visual Studio Code. From there, go to Run > Run without Debugging in the top of the program. Then the program will begin to run.
+
 Thank You :)
 
 Group Members:
